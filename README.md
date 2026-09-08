@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/27119b7d-15d6-4e65-b82b-e5671e27a918
-
 # FinishedFahrtWebs
 
 Eine Webanwendung zur Speicherung von Fahrten anhand eines bereits bestehenden Systems.
