@@ -2,7 +2,8 @@
 
 # Fahrt-Management-System
 
-Eine Webanwendung zur Speicherung von Fahrten anhand eines bereits bestehenden Systems.
+Eine Webanwendung zur effizienten Verwaltung und Planung von Fahrten.
+
 ## Funktionen
 
 - Übersicht und Verwaltung von Fahrten und Fahrtanfragen
