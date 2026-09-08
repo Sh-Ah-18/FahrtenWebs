@@ -14,7 +14,7 @@ Eine Webanwendung zur Speicherung von Fahrten anhand eines bereits bestehenden S
 
 ## Technologie
 
-- Next.js App Router
+- Next.js
 - React und TypeScript
 - Datenbank: PostgreSQL
 
