@@ -1,6 +1,6 @@
 
 
-# FinishedFahrtWebs
+# Fahrt-Management-System
 
 Eine Webanwendung zur Speicherung von Fahrten anhand eines bereits bestehenden Systems.
 ## Funktionen
@@ -11,25 +11,22 @@ Eine Webanwendung zur Speicherung von Fahrten anhand eines bereits bestehenden S
 - Suche und Datumsfilter für die Anfragenliste
 - Excel-Export der Fahrtdaten
 - Verwaltung von Mitarbeitern, Unternehmen und Kostenstellen
-- Mehrtägige Fahrten und wiederkehrende Buchungen
-- Responsive Navigation mit Desktop-Sidebar und mobilem Menü
 
 ## Technologie
 
 - Next.js App Router
 - React und TypeScript
-- Tailwind CSS
-- Supabase Auth und Datenbankzugriff
+- Datenbank: PostgreSQL
 
 ## Datenmodell
 
-Die Anwendung arbeitet mit den zentralen Domänenobjekten:
+Die Anwendung arbeitet mit diesen Tables:
 
 - `anfrageNew`: Fahrtanfragen und Fahrten
 - `mitarbeiter`: Mitarbeiter inklusive Hausanschrift
 - `unternehmen`: Unternehmen und Kundendaten
 - `kostenstelle`: Zieladressen und Kostenstelleninformationen
-- `profiles`: optionale Profildaten zur Authentifizierung
+- `profiles`: Profildaten zur Authentifizierung
 
 
 ## Demo
